@@ -10,7 +10,7 @@ Qt 6.2.4 MinGW 11.2.0 64-bit
   3.2 Auto - K-means (with K-means++ initialization) clusterization, generating unique set (user picks size) of colors for each image.  
   4. Save changed image. 
 
-All "color distances" between pixels are calculated in LAB-space (uncomment corresponding lines to apply distance in RGB-space,  
-but sometimes it showes visually confusing results)  
+All "color distances" between pixels are calculated in LAB-space (uncomment corresponding lines to apply distance in  
+RGB-space, but sometimes it showes visually confusing results)  
   
 
